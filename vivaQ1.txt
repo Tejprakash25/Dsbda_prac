@@ -1,0 +1,60 @@
+Viva Questions and Answers
+1. What is Data Wrangling?
+
+Data wrangling is the process of cleaning and transforming raw data into useful format.
+
+2. Why is pandas used?
+
+Pandas is used for data analysis and manipulation.
+
+3. What does DataFrame mean?
+
+DataFrame is a tabular data structure in pandas.
+
+4. What is the use of isnull()?
+
+It checks missing values in dataset.
+
+5. What does describe() do?
+
+It gives statistical summary of numerical columns.
+
+6. What does shape return?
+
+It returns number of rows and columns.
+
+7. Why is data preprocessing important?
+
+It improves data quality before analysis.
+
+8. What is data normalization?
+
+It converts data into standard format.
+
+9. Why convert categorical data into numeric?
+
+Machine learning models work better with numeric values.
+
+10. What is LabelEncoder?
+
+LabelEncoder converts categorical text into numbers.
+
+11. What is fillna()?
+
+It replaces missing values.
+
+12. Why use mean() in missing values?
+
+Mean is used to fill numerical missing data.
+
+13. What does astype() do?
+
+It changes data type of a column.
+
+14. What is the output of dtypes?
+
+It shows data types of columns.
+
+15. What did you observe in this practical?
+
+Observed missing values, datatype conversion, and categorical encoding using pandas.

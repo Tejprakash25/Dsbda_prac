@@ -1,0 +1,60 @@
+Viva Questions and Answers
+1. What is descriptive statistics?
+
+It summarizes dataset using statistical measures.
+
+2. What is mean?
+
+Average value of dataset.
+
+3. What is median?
+
+Middle value after sorting data.
+
+4. What is standard deviation?
+
+Measure of data variation.
+
+5. Why use groupby()?
+
+To group records by categorical values.
+
+6. What is categorical variable?
+
+Variable containing labels or categories.
+
+7. What is quantitative variable?
+
+Variable containing numeric values.
+
+8. What does describe() return?
+
+Count, mean, std, min, max and percentiles.
+
+9. What is percentile?
+
+Percentage position of value in dataset.
+
+10. What is Iris dataset?
+
+Dataset used for classification and statistics.
+
+11. Name the Iris species used.
+
+Iris-setosa, Iris-versicolor, Iris-virginica.
+
+12. Which library is used?
+
+Pandas.
+
+13. What did you observe in this practical?
+
+Observed statistical analysis on grouped and Iris dataset data.
+
+14. Why is standard deviation important?
+
+It shows spread of data.
+
+15. What is the use of filtering?
+
+To extract records matching condition.

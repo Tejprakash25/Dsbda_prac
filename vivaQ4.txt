@@ -1,0 +1,61 @@
+Viva Questions and Answers
+
+1. What is Linear Regression?
+
+Linear Regression predicts continuous values using linear relationship.
+
+2. What is supervised learning?
+
+Learning using input and output data.
+
+3. What is dependent variable?
+
+Output variable to be predicted.
+
+4. What is independent variable?
+
+Input feature used for prediction.
+
+5. What is MEDV in dataset?
+
+Median value of house prices.
+
+6. What is RM feature?
+
+Average number of rooms.
+
+7. Why use train_test_split()?
+
+To divide data into training and testing sets.
+
+8. What is model.fit()?
+
+Used to train the model.
+
+9. What is predict()?
+
+Used to predict output values.
+
+10. What is Mean Squared Error?
+
+Measure of prediction error.
+
+11. Why dropna() is used?
+
+To remove missing values.
+
+12. Which algorithm is used?
+
+Linear Regression algorithm.
+
+13. Which library is used for ML?
+
+scikit-learn
+
+14. What type of problem is this?
+
+Regression problem.
+
+15. What did you observe in this practical?
+
+Observed prediction of house prices using linear regression.

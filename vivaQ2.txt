@@ -1,0 +1,60 @@
+Viva Questions and Answers
+1. What is data inconsistency?
+
+Incorrect or invalid data in dataset.
+
+2. What are missing values?
+
+Values that are empty or null.
+
+3. Which function checks missing values?
+
+isnull()
+
+4. What is fillna() used for?
+
+To replace missing values.
+
+5. What is an outlier?
+
+A value far away from normal range.
+
+6. Which method is used for outlier detection?
+
+IQR method.
+
+7. What is IQR?
+
+Inter Quartile Range.
+
+8. Formula of IQR?
+
+Q3 - Q1
+
+9. Why remove outliers?
+
+They affect analysis and accuracy.
+
+10. What is data transformation?
+
+Changing data into another format or scale.
+
+11. Why use log transformation?
+
+To reduce skewness and normalize data.
+
+12. Which library is used for log transformation?
+
+NumPy
+
+13. What did you observe in this practical?
+
+Observed missing values, outlier detection, and data transformation.
+
+14. Why is preprocessing important?
+
+To improve data quality and model performance.
+
+15. What is skewness?
+
+Uneven distribution of data.
