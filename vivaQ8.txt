@@ -1,0 +1,60 @@
+Viva Questions and Answers
+1. What is data visualization?
+
+Graphical representation of data.
+
+2. Which dataset is used?
+
+Titanic dataset.
+
+3. Which library is used for visualization?
+
+Seaborn and Matplotlib.
+
+4. What does load_dataset() do?
+
+Loads inbuilt seaborn dataset.
+
+5. What is histogram?
+
+Graph showing frequency distribution.
+
+6. Which column is used for histogram?
+
+fare
+
+7. What does countplot() show?
+
+Count of categorical values.
+
+8. Why use plt.show()?
+
+To display graph.
+
+9. What did you observe from fare histogram?
+
+Most passengers had low ticket fare.
+
+10. What is the use of bins in histogram?
+
+Divides data into intervals.
+
+11. What is Titanic dataset?
+
+Dataset containing passenger details of Titanic ship.
+
+12. What is seaborn?
+
+Python library for statistical visualization.
+
+13. What is matplotlib?
+
+Python plotting library.
+
+14. What did you observe in this practical?
+
+Observed patterns and fare distribution using graphs.
+
+15. Why is visualization important?
+
+It helps understand data patterns easily.

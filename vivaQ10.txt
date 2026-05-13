@@ -1,0 +1,67 @@
+Inference
+All features are numeric except species.
+Histograms show data distribution of each feature.
+Boxplots show spread and outliers.
+Sepal width contains some outliers.
+Petal length and petal width are more uniformly distributed.
+
+Viva Questions and Answers
+1. Which dataset is used?
+
+Iris dataset.
+
+2. What are the features in Iris dataset?
+
+Sepal length, sepal width, petal length, petal width.
+
+3. Which feature is nominal?
+
+species
+
+4. Which features are numeric?
+
+Sepal and petal measurements.
+
+5. What is histogram?
+
+Graph showing frequency distribution.
+
+6. What is boxplot?
+
+Graph showing spread and outliers.
+
+7. What are outliers?
+
+Values far from normal range.
+
+8. Which library is used?
+
+Matplotlib and Pandas.
+
+9. What does dtypes show?
+
+Data types of columns.
+
+10. What did you observe?
+
+Some outliers present in sepal width.
+
+11. Why use visualization?
+
+To understand data distribution.
+
+12. What does plt.show() do?
+
+Displays graph.
+
+13. What is feature distribution?
+
+Spread of values in dataset.
+
+14. Why use boxplot and histogram together?
+
+To compare distribution and outliers.
+
+15. What did you learn from this practical?
+
+Learned feature analysis using visualizations.

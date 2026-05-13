@@ -1,0 +1,60 @@
+Viva Questions and Answers
+1. What is Scala?
+
+Scala is a programming language used with Apache Spark.
+
+2. What is Apache Spark?
+
+Apache Spark is a fast big data processing framework.
+
+3. Why is Scala used in Spark?
+
+Spark is originally written in Scala.
+
+4. What is object in Scala?
+
+Object is a singleton class.
+
+5. What is the name of the object here?
+
+SimpleProgram
+
+6. What is main() function?
+
+Program execution starts from main().
+
+7. What does Array store?
+
+Multiple values of same type.
+
+8. What is val?
+
+Immutable variable.
+
+9. What is var?
+
+Mutable variable.
+
+10. Why is sum declared using var?
+
+Because value changes during loop execution.
+
+11. What does for loop do?
+
+Iterates through array elements.
+
+12. What is println()?
+
+Used to display output.
+
+13. What is the output of this program?
+
+Sum is: 150
+
+14. What does Unit mean in Scala?
+
+Equivalent to void in Java.
+
+15. What did you observe in this practical?
+
+Observed array handling, loop execution, and sum calculation using Scala.

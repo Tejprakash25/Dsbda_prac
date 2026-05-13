@@ -1,0 +1,66 @@
+Observations
+Female passengers had higher survival rate.
+Many male passengers did not survive.
+Most passengers were between age 20 to 40.
+Boxplot shows age distribution and outliers.
+Younger females had better survival chances.
+Viva Questions and Answers
+1. What is boxplot?
+
+Graph showing distribution of numerical data.
+
+2. Which dataset is used?
+
+Titanic dataset.
+
+3. Which columns are used?
+
+sex, age, survived
+
+4. What does hue represent?
+
+Different categories using colors.
+
+5. What are outliers?
+
+Values far from normal range.
+
+6. Which library is used?
+
+Seaborn.
+
+7. What is the use of boxplot?
+
+To visualize spread and outliers.
+
+8. What is median in boxplot?
+
+Middle line inside box.
+
+9. What did you observe?
+
+Females survived more than males.
+
+10. What does plt.show() do?
+
+Displays graph.
+
+11. What is data visualization?
+
+Graphical representation of data.
+
+12. Why use Titanic dataset?
+
+To analyze passenger survival patterns.
+
+13. What is age distribution?
+
+Spread of passenger ages.
+
+14. What is survived column?
+
+Shows whether passenger survived or not.
+
+15. Why are visualizations important?
+
+They help understand patterns easily.

@@ -1,0 +1,60 @@
+Viva Questions and Answers
+1. What is Logistic Regression?
+
+Classification algorithm used for binary output.
+
+2. What type of problem is this?
+
+Classification problem.
+
+3. What is dependent variable?
+
+Purchased column.
+
+4. What are independent variables?
+
+Age and EstimatedSalary.
+
+5. Why use train_test_split()?
+
+To divide training and testing data.
+
+6. What is confusion matrix?
+
+Table showing prediction performance.
+
+7. What is TP?
+
+True Positive.
+
+8. What is TN?
+
+True Negative.
+
+9. What is FP?
+
+False Positive.
+
+10. What is FN?
+
+False Negative.
+
+11. Formula of Accuracy?
+
+(TP + TN) / Total
+
+12. Formula of Precision?
+
+TP / (TP + FP)
+
+13. Formula of Recall?
+
+TP / (TP + FN)
+
+14. What is Error Rate?
+
+1 - Accuracy
+
+15. What did you observe in this practical?
+
+Observed binary classification using logistic regression and confusion matrix analysis.

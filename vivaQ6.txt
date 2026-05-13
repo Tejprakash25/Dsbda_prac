@@ -1,0 +1,60 @@
+Viva Questions and Answers
+1. What is Naive Bayes?
+
+Probabilistic classification algorithm based on Bayes theorem.
+
+2. What type of learning is used?
+
+Supervised learning.
+
+3. What is GaussianNB?
+
+Naive Bayes classifier for continuous values.
+
+4. What is the target variable?
+
+species
+
+5. Which dataset is used?
+
+Iris dataset.
+
+6. What are features in iris dataset?
+
+Sepal length, sepal width, petal length, petal width.
+
+7. What is confusion matrix?
+
+Performance evaluation table.
+
+8. What is TP?
+
+True Positive.
+
+9. What is FP?
+
+False Positive.
+
+10. What is TN?
+
+True Negative.
+
+11. What is FN?
+
+False Negative.
+
+12. Formula of Accuracy?
+
+(TP + TN) / Total
+
+13. Formula of Precision?
+
+TP / (TP + FP)
+
+14. Formula of Recall?
+
+TP / (TP + FN)
+
+15. What did you observe in this practical?
+
+Observed classification using Naive Bayes and confusion matrix evaluation.

@@ -1,0 +1,60 @@
+Viva Questions and Answers
+1. What is Text Analytics?
+
+Process of extracting information from text data.
+
+2. What is Tokenization?
+
+Breaking text into words or tokens.
+
+3. What is POS Tagging?
+
+Identifying grammatical category of words.
+
+4. What are stop words?
+
+Common words with little meaning.
+
+5. Why remove stop words?
+
+To improve text processing efficiency.
+
+6. What is Stemming?
+
+Reducing words to root form.
+
+7. What is Lemmatization?
+
+Converting words into meaningful base form.
+
+8. Difference between stemming and lemmatization?
+
+Lemmatization gives meaningful words while stemming may not.
+
+9. What is TF?
+
+Term Frequency of a word in document.
+
+10. What is IDF?
+
+Inverse Document Frequency.
+
+11. What is TF-IDF?
+
+Importance score of words in documents.
+
+12. Which library is used for NLP?
+
+NLTK
+
+13. Which library is used for TF-IDF?
+
+scikit-learn
+
+14. What did you observe in this practical?
+
+Observed preprocessing and TF-IDF representation of text.
+
+15. Why is text preprocessing important?
+
+To clean and prepare text for analysis.
